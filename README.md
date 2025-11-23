@@ -29,30 +29,30 @@ Use o compilador online Programiz:
 
 ## 🗂️ Estrutura do Repositório
 
-📁 exerciciosC
-├── adivinhe o numero.cpp
-├── dowhile.cpp
-├── eleicao.cpp
-├── exe12.cpp
-├── for.cpp
-├── intervaloEntreNumeros.cpp
-├── lista-exercicios-comentados.cpp
-├── lista-for.cpp
-├── lista-if-else.cpp
-├── maior ou igual.cpp
-├── media-alunos.cpp
-├── postoDeGasolina.cpp
-├── tabuada.cpp
-├── testeSrand.cpp
-├── trabalho4.cpp
-|---📁 vetores
-    ├── banco.cpp *em implementação
-    ├── maiorEmenor.cpp
-    ├── matriz.cpp
-    ├── mediaVetor.cpp
-    ├── numerosPares.cpp
-    ├── verificaMatriz.cpp
-    ├── verificaNumeros.cpp
+📁 exerciciosC<br>
+├── adivinhe o numero.cpp<br>
+├── dowhile.cpp<br>
+├── eleicao.cpp<br>
+├── exe12.cpp<br>
+├── for.cpp<br>
+├── intervaloEntreNumeros.cpp<br>
+├── lista-exercicios-comentados.cpp<br>
+├── lista-for.cpp<br>
+├── lista-if-else.cpp<br>
+├── maior ou igual.cpp<br>
+├── media-alunos.cpp<br>
+├── postoDeGasolina.cpp<br>
+├── tabuada.cpp<br>
+├── testeSrand.cpp<br>
+├── trabalho4.cpp<br>
+---├──📁 vetores<br>
+---├── banco.cpp *em implementação<br>
+---├── maiorEmenor.cpp<br>
+---├── matriz.cpp<br>
+---├── mediaVetor.cpp<br>
+---├── numerosPares.cpp<br>
+---├── verificaMatriz.cpp<br>
+---├── verificaNumeros.cpp<br>
 
 ---
 
@@ -65,37 +65,37 @@ Abaixo estão espaços organizados para você ver os prints de cada código func
 ## 📁 **exerciciosC**
 
 ### 🔹 adivinhe o numero.cpp  
-📷 ![print](/images/image.png)
+📷 ![print](./images/image.png)
 
 ### 🔹 dowhile.cpp  
-📷 ![print](/images/image-1.png)
+📷 ![print](./images/image-1.png)
 
 ### 🔹 eleicao.cpp  
-📷 ![print](/images/image-2.png)
+📷 ![print](./images/image-2.png)
 
 ### 🔹 exe12.cpp  
-📷 ![print](/images/image-3.png)
+📷 ![print](./images/image-3.png)
 
 ### 🔹 for.cpp  
-📷 ![print](/images/image-4.png)
+📷 ![print](./images/image-4.png)
 
 ### 🔹 intervaloEntreNumeros.cpp  
-📷 ![print](/images/image-5.png)
+📷 ![print](./images/image-5.png)
 
 ### 🔹 lista-exercicios-comentados.cpp  
-📷 ![print](/images/image-6.png)
+📷 ![print](./images/image-6.png)
 
 ### 🔹 lista-for.cpp  
-📷 ![print](/images/image-7.png)
+📷 ![print](./images/image-7.png)
 
 ### 🔹 lista-if-else.cpp  
-📷 ![print](/images/image-8.png)
+📷 ![print](./images/image-8.png)
 
 ### 🔹 media-alunos.cpp  
-📷 ![print](/images/image-9.png)
+📷 ![print](./images/image-9.png)
 
 ### 🔹 postoDeGasolina.cpp  
-📷 ![print](/images/image-10.png)
+📷 ![print](./images/image-10.png)
 ## detalhe que o combustivel tem desconto
 ---
 
