@@ -65,43 +65,43 @@ Abaixo estão espaços organizados para você ver os prints de cada código func
 ## 📁 **exerciciosC**
 
 ### 🔹 adivinhe o numero.cpp  
-📷 ![alt text](image.png)
+📷 ![print](/images/image.png)
 
 ### 🔹 dowhile.cpp  
-📷 ![alt text](image-1.png)
+📷 ![print](/images/image-1.png)
 
 ### 🔹 eleicao.cpp  
-📷 ![alt text](image-2.png)
+📷 ![print](/images/image-2.png)
 
 ### 🔹 exe12.cpp  
-📷 ![alt text](image-3.png)
+📷 ![print](/images/image-3.png)
 
 ### 🔹 for.cpp  
-📷 ![alt text](image-4.png)
+📷 ![print](/images/image-4.png)
 
 ### 🔹 intervaloEntreNumeros.cpp  
-📷 ![alt text](image-5.png)
+📷 ![print](/images/image-5.png)
 
 ### 🔹 lista-exercicios-comentados.cpp  
-📷 ![alt text](image-6.png)
+📷 ![print](/images/image-6.png)
 
 ### 🔹 lista-for.cpp  
-📷 ![alt text](image-7.png)
+📷 ![print](/images/image-7.png)
 
 ### 🔹 lista-if-else.cpp  
-📷 ![alt text](image-8.png)
+📷 ![print](/images/image-8.png)
 
 ### 🔹 media-alunos.cpp  
-📷 ![alt text](image-9.png)
+📷 ![print](/images/image-9.png)
 
 ### 🔹 postoDeGasolina.cpp  
-📷 ![alt text](image-10.png)
+📷 ![print](/images/image-10.png)
 ## detalhe que o combustivel tem desconto
 ---
 
 ## 📚 Sobre este repositório
 
-Todos os arquivos foram criados **em sala de aula**, com foco em fixação dos seguintes conteúdos:
+Todos os arquivos foram criados em sala de aula, com foco em fixação dos seguintes conteúdos:
 
 - Variáveis e tipos de dados  
 - Estruturas condicionais (if, else, switch)  
